@@ -1,0 +1,84 @@
+{
+"groceary":[
+        {
+            "srno":1,
+            "name":"onion",
+            "quantity":2,
+            "unit":"kg",
+            "department":"food",
+            "notes":"big onion"
+        },
+        {
+            "srno":2,
+            "name":"tomato",
+            "quantity":1,
+            "unit":"kg",
+            "department":"food",
+            "notes":"medium size"
+        },
+        {
+            "srno":3,
+            "name":"carrot",
+            "quantity":2,
+            "unit":"kg",
+            "department":"food",
+            "notes":"small"
+        },
+        {
+            "srno":4,
+            "name":"oil",
+            "quantity":2,
+            "unit":"kg",
+            "department":"food",
+            "notes":"olive oil"
+        },
+        {
+            "srno":5,
+            "name":"notebook",
+            "quantity":2,
+            "unit":"number",
+            "department":"stationary",
+            "notes":"classmate note"
+        },
+        {
+            "srno":6,
+            "name":"pen",
+            "quantity":20,
+            "unit":"number",
+            "department":"stationary",
+            "notes":"10 blue and 10 black"
+        },
+        {
+            "srno":7,
+            "name":"pencil",
+            "quantity":10,
+            "unit":"number",
+            "department":"stationary",
+            "notes":"2H pencil"
+        },
+        {
+            "srno":8,
+            "name":"handwash",
+            "quantity":1,
+            "unit":"number",
+            "department":"health",
+            "notes":"dettol"
+        },
+        {
+            "srno":9,
+            "name":"soap",
+            "quantity":10,
+            "unit":"number",
+            "department":"health",
+            "notes":"pears"
+        },
+        {
+            "srno":10,
+            "name":"harpic",
+            "quantity":1,
+            "unit":"number",
+            "department":"health",
+            "notes":"medium harpic"
+        }
+    ]    
+}

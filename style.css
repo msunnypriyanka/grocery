@@ -1,0 +1,31 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+#image{
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1,h4{
+    text-align: center;
+    color: teal;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+p{
+    text-align: center;
+}
+/* button#table{
+    margin-left: 550px;
+} */
+#table{
+    text-align: center;
+    margin-left: 510px;
+    padding: 10px;
+    line-height: 1.5;
+    color: teal;
+    
+    /* display: block; */
+    /* padding-left: 38%; */
+    /* border-left: 50%; */
+}
